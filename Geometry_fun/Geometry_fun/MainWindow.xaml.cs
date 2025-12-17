@@ -11,9 +11,7 @@ using System.Windows.Shapes;
 
 namespace Geometry_fun
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// todo: - window min set, figure out how to deal with four sided things -> more sided things, claculate angels?
     public partial class MainWindow : Window
     {
         public MainWindow()
