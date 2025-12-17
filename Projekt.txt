@@ -1,0 +1,1 @@
+Egy live 2d sokszög aminek az adatai kiszámolódna és élőben változtathatnád a méreteket amire az értékei (terület, kerület, oldal) is változna.
